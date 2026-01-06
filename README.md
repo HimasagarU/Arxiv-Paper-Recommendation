@@ -226,9 +226,6 @@ Range: [0, 1] (1 = identical, 0 = completely different)
 
 ## Limitations
 
-- Static dataset (requires periodic updates)
-- English language only
-- No explicit user behavior feedback
 - Category assignment based on arXiv metadata
 - Limited to papers in the dataset
 
@@ -237,8 +234,6 @@ Range: [0, 1] (1 = identical, 0 = completely different)
 Contributions are welcome! Areas for improvement:
 - Algorithm optimization
 - New recommendation strategies
-- UI/UX enhancements
-- Dataset expansion
 - Documentation improvements
 
 ## License
@@ -263,7 +258,3 @@ If you use this recommendation system in your research, please cite:
 For questions, issues, or suggestions, please open an issue on GitHub or contact the repository maintainer.
 
 ---
-
-**Last Updated**: January 2025
-**Notebook Version**: 009
-**Python Version**: 3.x
